@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-workshop",
+  "version": "1.0.0",
+  "description": "rest api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djeylani/rest-api-workshop.git"
+  },
+  "author": "djeylani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djeylani/rest-api-workshop/issues"
+  },
+  "homepage": "https://github.com/Djeylani/rest-api-workshop#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
